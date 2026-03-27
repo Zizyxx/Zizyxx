@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! I'm Zizyxx👋
 
-<!--
-**Zizyxx/Zizyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Detailed Tech Stack
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,postgres,mongodb,html,css,discord,linux,figma" alt="My Skills" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 About Me
+
+A passionate Informatics student at UIN Jakarta, driven by technology and creativity. My world revolves around:
+
+* 💻 Coding (Python, Assembly, Web)
+* 🖧 Network Engineering
+* 🎬 Video Editing
+* 📸 Photography & Videography
